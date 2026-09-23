@@ -157,7 +157,5 @@ No arquivo `src/train_model.py`, você pode ajustar:
 
 Projeto educacional - Livre para uso e modificação.
 
-## 🎓 Autor
-
-Gustavo Henrique Bispo Costa
-João Luiz Souza Pereira
+## 🎓 Autores
+- Gustavo Henrique Bispo Costa 
